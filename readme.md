@@ -7,7 +7,6 @@ Tento repozitár obsahuje projekt zameraný na spracovanie a analýzu zdravotní
 - Predikcia závažnosti priebehu ochorenia COVID-19 u hospitalizovaných pacientov
 - Využitie interpretovateľných modelov ako EBM, CatBoost, LightGBM
 - Aplikácia metód vysvetliteľnosti ako SHAP a vizualizácia výstupov
-- Nasadenie prototypu ako webovej aplikácie (napr. pomocou Streamlit)
 
 ## 📁 Štruktúra projektu
 
