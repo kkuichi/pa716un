@@ -1,0 +1,8 @@
+.idea
+catboost_info
+
+*.pptx
+*.xlsx
+*.csv
+*.docx
+*.pdf

@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+
+optuna
+scipy
+
+catboost
+xgboost
+lightgbm
+
+interpret
+lime
+
+black[jupyter]
